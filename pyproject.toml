@@ -1,0 +1,7 @@
+[project]
+name = "CardGame"
+version = "0.1.0"
+description = ""
+authors = ["JMRDevGames<support@jmrdevgames.com>"]
+requires-python = ">=3.11"
+dependencies = []
